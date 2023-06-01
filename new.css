@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1495364141860-b0d03eccd065?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+
+}
+
+
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    display: grid;
+    justify-content: right;
+    padding: 34px 100px;
+    font-size: 30px;
+
+}
+
+#countdown_container {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: aqua;
+    padding: 20px 20px;
+}
